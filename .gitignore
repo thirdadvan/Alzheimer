@@ -1,0 +1,24 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.DS_Store
+
+OnWheel/.vs/OnWheel/xs/project-cache
+OnWheel/.vs/OnWheel/xs
+OnWheel/._Temp
+OnWheel/Assets/Scenes/SampleScene 2.unity
