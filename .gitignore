@@ -16,8 +16,8 @@ UserSettings/
 *.pidb
 *.booproj
 *.svd
-*crash*.json
 .DS_Store
+*-Debug.json
 
 OnWheel/.vs/OnWheel/xs/project-cache
 OnWheel/.vs/OnWheel/xs
